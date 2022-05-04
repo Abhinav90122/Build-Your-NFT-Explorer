@@ -3,9 +3,9 @@
 
 ## Integrating Login with Unstoppable feature
 
-Youtube:
+Odysee video link: [https://odysee.com/screen-recording-2022-05-05-at-25303-am_3BCljDe6:01813c28f62cd39736081f7aac9efc31f755cd25](https://odysee.com/screen-recording-2022-05-05-at-25303-am_3BCljDe6:01813c28f62cd39736081f7aac9efc31f755cd25)
 Discord: abhinav999#6398
-Email: rahuldevsimplified@gmail.com
+UD Email: rahuldevsimplified@gmail.com
 
 <div align="center">
   <a href="https://github.com/alchemyplatform/NFT-API-demo/">
@@ -73,8 +73,6 @@ and display the images, attributes, collection name, and creator of your favouri
 Supporting both ERC1155 and ERC721!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-![Jan-21-2022 19-33-50-min](https://user-images.githubusercontent.com/72762629/150807611-5bf5ab02-e9a9-4cfb-95c2-61f2bf0f0e2f.gif)
 
 ### Built With
 

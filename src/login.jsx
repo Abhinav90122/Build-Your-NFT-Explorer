@@ -44,23 +44,21 @@ const Login = () => {
               </button>
             </div>
           ))}
-          <button
-            className="btn m-b-xs bg-white"
-            onClick={() => unLogin(context.setAddress)}
-            style={{
-              color: 'rgb(76, 71, 247)',
-              border: '2px solid rgb(76, 71, 247)',
-            }}
-          >
-            <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxBfh5e_1zE4f3WZAmDoMD5RwzjLlktMd8A&usqp=CAU"
-              alt="Unstoppable"
-              width={20}
-              height={20}
-              className="mx-2"
-            />
-            Login with Unstoppable
-          </button>
+          <div className="w-2/6">
+            <button
+              className="py-3 w-full bg-white rounded-sm hover:bg-slate-100 flex items-center justify-center"
+              onClick={() => unLogin(context.setAddress)}
+            >
+              <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxBfh5e_1zE4f3WZAmDoMD5RwzjLlktMd8A&usqp=CAU"
+                alt="Unstoppable"
+                width={30}
+                height={30}
+                className="mx-2"
+              />
+              Login with Unstoppable
+            </button>
+          </div>
 
           {error && <div>{error?.message ?? 'Failed to connect'}</div>}
           <div className="text-white text-center mt-8 ">

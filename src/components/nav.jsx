@@ -44,6 +44,7 @@ const Nav = () => {
                     className=" py-2 px-4 rounded-lg bg-white mr-4"
                     onClick={() => {
                       disconnect();
+                      context.setAddress(null);
                     }}
                   >
                     Disconnect
