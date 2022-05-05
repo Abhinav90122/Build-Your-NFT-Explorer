@@ -1,12 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 
-## Integrating Login with Unstoppable feature
-
-Odysee video link: [https://odysee.com/screen-recording-2022-05-05-at-25303-am_3BCljDe6:01813c28f62cd39736081f7aac9efc31f755cd25](https://odysee.com/screen-recording-2022-05-05-at-25303-am_3BCljDe6:01813c28f62cd39736081f7aac9efc31f755cd25)
-Discord: abhinav999#6398
-UD Email: rahuldevsimplified@gmail.com
-
 <div align="center">
   <a href="https://github.com/alchemyplatform/NFT-API-demo/">
           <img src="https://user-images.githubusercontent.com/72762629/152393096-1a99518a-6632-4f10-9c71-b29b20c380e2.png" alt="Logo" height="80" >
@@ -26,6 +20,21 @@ UD Email: rahuldevsimplified@gmail.com
     ·
     <a href="https://github.com/alchemyplatform/NFT-API-demo/issues">Request Feature</a>
   </p>
+
+</div>
+
+## Integrating Login with Unstoppable feature
+
+<div>
+<ol>
+<li>Odysee video link: https://odysee.com/screen-recording-2022-05-05-at-25303-am_3BCljDe6:01813c28f62cd39736081f7aac9efc31f755cd25</li>
+<li>
+Discord: abhinav999#6398
+</li>
+<li>
+UD Email: rahuldevsimplified@gmail.com
+</li>
+</ol>
 
 </div>
 
